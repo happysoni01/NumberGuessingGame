@@ -49,7 +49,6 @@ public class GuessGame {
             play.takeUserInput();
             b= play.isCorrect();
         }
-        System.out.println();
     }
 }
 
